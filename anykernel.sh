@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Delta Kernel by CloudedQuartz
+kernel.string=Done
 do.devicecheck=1
 do.modules=0
 do.systemless=1
